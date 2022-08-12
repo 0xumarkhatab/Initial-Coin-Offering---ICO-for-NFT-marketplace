@@ -54,8 +54,5 @@ Here's how the flow Take place
 #### Deployment Network
     Ethereum Goerli
     
-### Deployment Link    
-
-[Click Here to visit Website](https://nft-marketplace-umaresso.vercel.app/)
     
     
