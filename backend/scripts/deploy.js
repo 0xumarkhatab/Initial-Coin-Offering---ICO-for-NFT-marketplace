@@ -21,7 +21,7 @@ async function main() {
 
   // print the address of the deployed contract
   console.log(
-    "Crypto Devs Token Contract Address:", // 0xd768D41972447f5Cc2659E859247F18439cBf78D
+    "Crypto Devs Token Contract Address:", // 0x07e1C7827ffBa9936C23b6F678dad5cd4F746aB9
     deployedCryptoDevsTokenContract.address
   );
 }
